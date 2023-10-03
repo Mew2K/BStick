@@ -1,0 +1,12 @@
+main: org.m2k.bstick.BStick
+name: BStick
+version: 1.0
+author: MewTwoKing
+description: A plugin that adds biome sticks to the game.
+website: https://github.com/Mew2K/BStick
+api-version: 1.20
+
+commands:
+  bstick:
+    description: Gives a biome stick to the player.
+    aliases: [bs]

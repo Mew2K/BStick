@@ -1,0 +1,4 @@
+# Change biome in an N x N area
+areaSize: 10
+# Max uses of the sticks.
+maxUses: 10
